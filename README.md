@@ -2,7 +2,7 @@
 
 ## 🚀 Full-Stack Developer | Node.js, Fastify, Prisma, Angular & Next.js
 
-Passionate about crafting high-performance, scalable applications using modern JavaScript technologies. Specialized in **backend development** with **Node.js**, and experienced in **frontend development** with **Angular and Next.js**.
+Passionate about crafting high-performance, scalable applications using modern JavaScript technologies. Specialized in **backend development** with **Node.js**, and experienced in **frontend development** with **Angular**.
 
 ---
 
@@ -10,9 +10,9 @@ Passionate about crafting high-performance, scalable applications using modern J
 
 ### **Backend**
 - 🚀 **Node.js** | **Fastify** | Express.js
-- 🗄️ **Prisma ORM** | PostgreSQL | MongoDB
+- 🗄️ **Prisma ORM** | PostgreSQL | Redis
 - 🔐 **JWT Authentication** | OAuth | Bcrypt
-- 🐳 **Docker** | Kubernetes | CI/CD
+- 🐳 **Docker** | Kubernetes 
 - 📡 **REST APIs** | GraphQL | WebSockets
 
 ### **Frontend**
@@ -23,7 +23,7 @@ Passionate about crafting high-performance, scalable applications using modern J
 ### **DevOps & Tools**
 - 🛠 **Git** | GitHub Actions | Vercel | AWS
 - 🖥 **Linux** | Shell Scripting
-- 🔍 **Testing**: Jest | Cypress | Playwright
+- 🔍 **Testing**: NODE
 
 ---
 
