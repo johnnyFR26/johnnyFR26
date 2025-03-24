@@ -28,7 +28,21 @@ Passionate about crafting high-performance, scalable applications using modern J
 ---
 
 ## 🔥 About Me
-💡 Passionate about building scalable and high-performance applications. Always eager to learn and contribute to open-source projects. I enjoy solving challenging problems and optimizing performance in both backend and frontend applications.
+<p>
+  <img
+    align="left" 
+    alt="GitHub Stats" 
+    height="160" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=johnnyFR26&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+  <img
+    align="left" 
+    alt="GitHub Stats" 
+    height="160" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnnyFR26&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
 
 📫 **Contact me:**
 
