@@ -1,8 +1,9 @@
 # 👋 Hello, I'm Johnny!
 
-## 🚀 Full-Stack Developer | Node.js, Fastify, Prisma, Angular & Next.js
+## 🚀 Full-Stack Developer | Node.js, Fastify, Prisma, Angular & Next.js  
+### 💻 Backend Engineer | Go & C++
 
-Passionate about crafting high-performance, scalable applications using modern JavaScript technologies. Specialized in **backend development** with **Node.js**, and experienced in **frontend development** with **Angular**.
+Passionate about crafting high-performance, scalable applications using modern JavaScript and system-level technologies. Specialized in **backend development** with **Node.js** and **Go**, and experienced in **frontend development** with **Angular** and **Next.js**.
 
 ---
 
@@ -10,6 +11,7 @@ Passionate about crafting high-performance, scalable applications using modern J
 
 ### **Backend**
 - 🚀 **Node.js** | **Fastify** | Express.js
+- 🧠 **Go (Golang)** | 🔧 **C++**
 - 🗄️ **Prisma ORM** | PostgreSQL | Redis
 - 🔐 **JWT Authentication** | OAuth | Bcrypt
 - 🐳 **Docker** | Kubernetes 
@@ -49,4 +51,3 @@ Passionate about crafting high-performance, scalable applications using modern J
 - 📩 Email: johnny.rabelo.cf@gmail.com
 
 💻 **Let's build something amazing together!** 🚀
-
