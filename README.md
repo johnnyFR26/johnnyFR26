@@ -28,7 +28,6 @@
 
 ---
 
-## 🔥 About Me
 <p>
   <img
     align="left" 
